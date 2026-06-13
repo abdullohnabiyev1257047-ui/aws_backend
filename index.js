@@ -16,7 +16,7 @@ const posts = [
     title: "Erkaklar uchun klassik kostyum",
     description:
       "Zamonaviy dizayn va yuqori sifatli matodan tayyorlangan klassik kostyum rasmiy uchrashuvlar va tadbirlar uchun ajoyib tanlov.",
-    image: "https://images.unsplash.https://www.instagram.com/p/CWBclAhKgpi/",
+    image: "https://cdn-ildmmeg.nitrocdn.com/HsBoHCElQfPSMjUNFwFaglHkPqsfelDP/assets/images/optimized/rev-b8a992c/hespokestyle.com/wp-content/uploads/2024/06/casual-clothes-for-men-dressing-down-guide-672x752.jpg",
     author: "Fashion House",
     date: "10 May 2025",
     category: "Erkaklar kiyimi",
